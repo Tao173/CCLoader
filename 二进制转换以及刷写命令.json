@@ -1,0 +1,3 @@
+./hex2bin.exe DIYRuZ_FreePad_LeTV_PM3.hex
+
+./CCLoader_x86_64.exe 3 DIYRuZ_FreePad_LeTV_TL_PM3.bin 0
